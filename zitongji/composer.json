@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fukuball/jieba-php": "^0.34.0",
+        "phpoffice/phpword": "^1.3"
+    }
+}
