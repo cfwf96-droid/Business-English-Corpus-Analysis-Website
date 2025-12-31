@@ -19,8 +19,8 @@ header("Expires: Thu, 01 Jan 1970 00:00:00 GMT");
 // 数据库配置
 $host = 'localhost';
 $dbUser = 'root';
-$dbPass = 'whyylw_666666';
-$dbName = 'business_chinese_corpus';
+$dbPass = '';
+$dbName = 'corpus';
 
 // 初始化变量
 $message = '';
