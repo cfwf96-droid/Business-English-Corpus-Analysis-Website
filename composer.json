@@ -1,0 +1,8 @@
+{
+    "require": {
+        "fukuball/jieba-php": "^0.34.0",
+        "phpmailer/phpmailer": "^6.11",
+        "spatie/pdf-to-text": "*",
+        "mpdf/mpdf": "*"
+    }
+}
